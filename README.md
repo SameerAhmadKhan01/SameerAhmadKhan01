@@ -1,26 +1,102 @@
-# 👋 Hi there, I'm Sameer!
-🚀 Full-stack developer | ☕ Tech enthusiast | 👨‍💻 Always learning
-# 💫 About Me:
-🔭 I’m currently working on building a rock-solid foundation in DSA and core programming<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Goal: To become a versatile engineer contributing to impactful, large-scale projects.
+# 👋 Hi there, I'm Sameer Ahmad Khan! <br>
 
+🚀 Full-Stack Developer | 👨‍💻 Competitive Programmer | ☕ Tech Enthusiast
 
-## 🌐 Find Me On:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-ahmad-khan-099974379) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WorstCaseBound) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/SameerAhmad01/) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sameerahmadk06)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk5dDN5dWt4NXd4OHd5OHd5OHd5OHd5OHd5OHd5OHd5OHd5OHd5bSZlY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Developer Setup" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SameerAhmadKhan01&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+### 💫 About Me:
+* 🏫 **Education:** Second-year B.Tech student specializing in Computer Science and Engineering.
+* 💻 **Technical Focus:** Actively mastering Data Structures & Algorithms (DSA) alongside core backend and full-stack architecture.
+* 🛠️ **Stack Competency:** Developing robust applications using the MERN stack, TypeScript, and multi-language logic implementation.
+* 🎯 **Professional Goal:** Aiming to engineer scalable, high-performance software solutions and contribute to impactful technology frameworks.
 
-### 🔝 Top Contributed Repo
+---
+
+### 🌐 Find Me On:
+<p align="left">
+  <a href="https://linkedin.com/in/sameer-ahmad-khan-099974379" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" title="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SameerAhmad01/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white" height="35" title="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/sameerahmadk06" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=flat-square&logo=hackerrank&logoColor=white" height="35" title="HackerRank" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/32460848/sameer" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-%23FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" height="35" title="Stack Overflow" /></a>&nbsp;&nbsp;
+  <a href="https://reddit.com/user/WorstCaseBound" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=flat-square&logo=reddit&logoColor=white" height="35" title="Reddit" /></a>
+</p>
+
+---
+### 💻 Tech Stack:
+
+#### 🚀 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+</p>
+
+#### 🌐 Frontend Frameworks & UI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" title="Express.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="NPM" />
+</p>
+
+#### 🤖 Data Science & Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="Scikit-Learn" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
+</p>
+
+#### 🔌 Hardware
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" />
+</p>
+
+---
+
+### 📊 Core Focus Areas:
+**Competitive Programming & DSA** ![](https://geps.dev/progress/75?text=DSA%20&%20Algorithms)
+
+**Full-Stack Web Development** ![](https://geps.dev/progress/60?text=MERN%20Stack)
+
+**Machine Learning** ![](https://geps.dev/progress/40?text=Data%20Science)
+
+---
+
+### 📊 GitHub & Competitive Programming Stats:
+
+| 🐙 GitHub Activity | 🔥 Contribution Streak |
+| --- | --- |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="400px" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerAhmadKhan01&theme=tokyonight&hide_border=true" width="400px" alt="Streak Stats" /> |
+
+| 💻 Most Used Languages | 🧠 LeetCode Metrics |
+| --- | --- |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400px" height="215px" alt="Top Languages" /> | <img src="https://leetcard.jacoblin.cool/SameerAhmad01?theme=dark&font=Syne%20Tactile&ext=activity" width="400px" height="215px" alt="LeetCode Stats" /> |
+
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=SameerAhmadKhan01&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SameerAhmadKhan01&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
