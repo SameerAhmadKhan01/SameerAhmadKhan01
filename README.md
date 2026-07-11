@@ -100,3 +100,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
+
+---
+
+### 🐍 My Contribution Snake
+![](https://raw.githubusercontent.com/SameerAhmadKhan01/SameerAhmadKhan01/output/github-contribution-grid-snake-dark.svg)
