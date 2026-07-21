@@ -18,11 +18,12 @@
 
 ### 🌐 Find Me On:
 <p align="left">
-  <a href="https://linkedin.com/in/sameer-ahmad-khan-099974379" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" title="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/SameerAhmad01/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white" height="35" title="LeetCode" /></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/sameerahmadk06" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=flat-square&logo=hackerrank&logoColor=white" height="35" title="HackerRank" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/32460848/sameer" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-%23FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" height="35" title="Stack Overflow" /></a>&nbsp;&nbsp;
-  <a href="https://reddit.com/user/WorstCaseBound" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=flat-square&logo=reddit&logoColor=white" height="35" title="Reddit" /></a>
+  <a href="https://linkedin.com/in/sameer-ahmad-khan-099974379" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://reddit.com/user/WorstCaseBound" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="45" title="Reddit" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SameerAhmad01/" target="_blank"><img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23ffa116" width="45" title="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/sameerahmadk06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" title="HackerRank" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/32460848/sameer" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" title="Stack Overflow" /></a>&nbsp;&nbsp;
+  <a href="mailto:sameerahmadk06@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" width="45" title="Gmail" /></a>
 </p>
 
 ---
