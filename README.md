@@ -23,7 +23,6 @@
   <a href="https://leetcode.com/u/SameerAhmad01/" target="_blank"><img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23ffa116" width="45" title="LeetCode" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/sameerahmadk06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" title="HackerRank" /></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/32460848/sameer" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" title="Stack Overflow" /></a>&nbsp;&nbsp;
-  <a href="mailto:sameerahmadk06@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" width="45" title="Gmail" /></a>
 </p>
 
 ---
