@@ -53,9 +53,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" title="Express.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="NPM" />
 </p>
+
+#### 🛠️ DevOps & Version Control
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+</p>
+
+
 
 #### 🤖 Data Science & Machine Learning
 <p align="left">
@@ -65,19 +75,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
 </p>
 
-#### 🔌 Hardware
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" />
-</p>
 
 ---
 
 ### 📊 Core Focus Areas:
 **Competitive Programming & DSA** ![](https://geps.dev/progress/75?text=DSA%20&%20Algorithms)
 
-**Full-Stack Web Development** ![](https://geps.dev/progress/60?text=MERN%20Stack)
+**Full-Stack Web Development** ![](https://geps.dev/progress/80?text=MERN%20Stack)
 
-**Machine Learning** ![](https://geps.dev/progress/40?text=Data%20Science)
+**Machine Learning** ![](https://geps.dev/progress/50?text=Data%20Science)
 
 ---
 
@@ -91,10 +97,6 @@
 | --- | --- |
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400px" height="215px" alt="Top Languages" /> | <img src="https://leetcard.jacoblin.cool/SameerAhmad01?theme=dark&font=Syne%20Tactile&ext=activity" width="400px" height="215px" alt="LeetCode Stats" /> |
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=SameerAhmadKhan01&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
 
 ### ✍️ Dev Quote
 <p align="center">
