@@ -1,22 +1,36 @@
-# 👋 Hi there, I'm Sameer Ahmad Khan! <br>
+<p align="center">
+  <img src="./assets/helloWorld.gif" width="420" alt="Hello World animation" />
+</p>
 
-🚀 Full-Stack Developer | 👨‍💻 Competitive Programmer | ☕ Tech Enthusiast
+<h1 align="center">Hi, I'm Sameer Ahmad Khan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk5dDN5dWt4NXd4OHd5OHd5OHd5OHd5OHd5OHd5OHd5OHd5OHd5bSZlY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Developer Setup" />
+  <strong>Full-Stack Developer</strong> &nbsp;|&nbsp; <strong>Competitive Programmer</strong> &nbsp;|&nbsp; <strong>Tech Enthusiast</strong>
+</p>
+
+<p align="center">
+  <img src="./assets/anim.gif" width="850" alt="Pixel art developer workspace" />
 </p>
 
 ---
 
 ### 💫 About Me:
-* 🏫 **Education:** Second-year B.Tech student specializing in Computer Science and Engineering.
-* 💻 **Technical Focus:** Actively mastering Data Structures & Algorithms (DSA) alongside core backend and full-stack architecture.
-* 🛠️ **Stack Competency:** Developing robust applications using the MERN stack, TypeScript, and multi-language logic implementation.
-* 🎯 **Professional Goal:** Aiming to engineer scalable, high-performance software solutions and contribute to impactful technology frameworks.
+
+- 🏫 **Education:** Second-year B.Tech student specializing in Computer Science and Engineering.
+- 💻 **Technical Focus:** Actively mastering Data Structures & Algorithms (DSA) alongside core backend and full-stack architecture.
+- 🛠️ **Stack Competency:** Developing robust applications using the MERN stack, TypeScript, and multi-language logic implementation.
+- 🎯 **Professional Goal:** Aiming to engineer scalable, high-performance software solutions and contribute to impactful technology frameworks.
+
+<p align="center">
+  <img src="./assets/coding-gif.gif" width="220" alt="Developer coding animation" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/debugging.gif" width="220" alt="Developer debugging animation" />
+</p>
 
 ---
 
 ### 🌐 Find Me On:
+
 <p align="left">
   <a href="https://linkedin.com/in/sameer-ahmad-khan-099974379" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://reddit.com/user/WorstCaseBound" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="45" title="Reddit" /></a>&nbsp;&nbsp;
@@ -26,9 +40,15 @@
 </p>
 
 ---
+
 ### 💻 Tech Stack:
 
+<p align="center">
+  <img src="./assets/techStack.gif" width="1000" alt="Technology stack animation" />
+</p>
+
 #### 🚀 Languages
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />&nbsp;&nbsp;
@@ -38,6 +58,7 @@
 </p>
 
 #### 🌐 Frontend Frameworks & UI
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />&nbsp;&nbsp;
@@ -49,6 +70,7 @@
 </p>
 
 #### ⚙️ Backend & Databases
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" title="Express.js" />&nbsp;&nbsp;
@@ -59,15 +81,15 @@
 </p>
 
 #### 🛠️ DevOps & Version Control
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
 </p>
 
-
-
 #### 🤖 Data Science & Machine Learning
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="Scikit-Learn" />&nbsp;&nbsp;
@@ -75,10 +97,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
 </p>
 
-
 ---
 
 ### 📊 Core Focus Areas:
+
 **Competitive Programming & DSA** ![](https://geps.dev/progress/75?text=DSA%20&%20Algorithms)
 
 **Full-Stack Web Development** ![](https://geps.dev/progress/80?text=MERN%20Stack)
@@ -87,18 +109,8 @@
 
 ---
 
-### 📊 GitHub & Competitive Programming Stats:
-
-| 🐙 GitHub Activity | 🔥 Contribution Streak |
-| --- | --- |
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="400px" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerAhmadKhan01&theme=tokyonight&hide_border=true" width="400px" alt="Streak Stats" /> |
-
-| 💻 Most Used Languages | 🧠 LeetCode Metrics |
-| --- | --- |
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SameerAhmadKhan01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400px" height="215px" alt="Top Languages" /> | <img src="https://leetcard.jacoblin.cool/SameerAhmad01?theme=dark&font=Syne%20Tactile&ext=activity" width="400px" height="215px" alt="LeetCode Stats" /> |
-
-
 ### ✍️ Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
@@ -106,4 +118,5 @@
 ---
 
 ### 🐍 My Contribution Snake
+
 ![](https://raw.githubusercontent.com/SameerAhmadKhan01/SameerAhmadKhan01/output/github-contribution-grid-snake-dark.svg)
