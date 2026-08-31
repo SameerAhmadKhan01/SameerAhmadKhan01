@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> &nbsp;|&nbsp; <strong>Competitive Programmer</strong> &nbsp;|&nbsp; <strong>Tech Enthusiast</strong>
+  <img src="https://img.shields.io/badge/Full--Stack_Dev-MERN_%7C_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Algorithms-C%2B%2B_%7C_DSA-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-brightgreen?style=flat-square" alt="Focus" />
 </p>
 
 ---
