@@ -1,15 +1,20 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/helloWorld.gif" width="420" alt="Hello World animation" />
+</p> -->
+<p align="center">
+  <img src="./assets/anim.gif" width="850" alt="Pixel art developer workspace" />
 </p>
 
-<h1 align="center">Hi, I'm Sameer Ahmad Khan</h1>
+<!-- <h1 align="center">Hi, I'm Sameer Ahmad Khan</h1> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sameer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <strong>Full-Stack Developer</strong> &nbsp;|&nbsp; <strong>Competitive Programmer</strong> &nbsp;|&nbsp; <strong>Tech Enthusiast</strong>
-</p>
-
-<p align="center">
-  <img src="./assets/anim.gif" width="850" alt="Pixel art developer workspace" />
 </p>
 
 ---
@@ -105,7 +110,7 @@
 
 **Full-Stack Web Development** ![](https://geps.dev/progress/80?text=MERN%20Stack)
 
-**Machine Learning** ![](https://geps.dev/progress/50?text=Data%20Science)
+**Machine Learning** ![](https://geps.dev/progress/30?text=Data%20Science)
 
 ---
 
