@@ -14,9 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Dev-MERN_%7C_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Algorithms-C%2B%2B_%7C_DSA-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-brightgreen?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Full--Stack_Dev-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Full-Stack Dev" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/MLOps-00C853?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="DSA" />
 </p>
 
 ---
@@ -39,11 +40,11 @@
 ### 🌐 Find Me On:
 
 <p align="left">
-  <a href="https://linkedin.com/in/sameer-ahmad-khan-099974379" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://reddit.com/user/WorstCaseBound" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="45" title="Reddit" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/SameerAhmad01/" target="_blank"><img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23ffa116" width="45" title="LeetCode" /></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/sameerahmadk06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" title="HackerRank" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/32460848/sameer" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" title="Stack Overflow" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sameer-ahmad-khan-099974379" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" title="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://reddit.com/user/WorstCaseBound" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="45" height="45" title="Reddit" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SameerAhmad01/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" title="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/sameerahmadk06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" height="45" title="HackerRank" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/32460848/sameer" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" title="Stack Overflow" /></a>
 </p>
 
 ---
@@ -55,53 +56,31 @@
 </p>
 
 #### 🚀 Languages
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java&perline=8" alt="Languages" />
 </p>
 
 #### 🌐 Frontend Frameworks & UI
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,html,css,figma&perline=8" alt="Frontend" />
 </p>
 
-#### ⚙️ Backend & Databases
-
+#### ⚙️ Backend, APIs & Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" title="Express.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="NPM" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,npm&perline=8" alt="Backend" />
 </p>
 
 #### 🛠️ DevOps & Version Control
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&perline=8" alt="DevOps" />
 </p>
 
 #### 🤖 Data Science & Machine Learning
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="Scikit-Learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=8" alt="ML" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="58" height="58" title="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter" />
 </p>
 
 ---
@@ -112,7 +91,16 @@
 
 **Full-Stack Web Development** ![](https://geps.dev/progress/80?text=MERN%20Stack)
 
-**Machine Learning** ![](https://geps.dev/progress/30?text=Data%20Science)
+**Machine Learning** ![](https://geps.dev/progress/60?text=Data%20Science)
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SameerAhmadKhan01&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerAhmadKhan01&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -120,6 +108,14 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+### 🏙️ 3D Contribution City
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" />
 </p>
 
 ---
