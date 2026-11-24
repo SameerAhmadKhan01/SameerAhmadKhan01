@@ -24,8 +24,6 @@ Hi, I'm **Sameer**, a Computer Science student who likes building software end t
 - 🛠️ **What I build:** Full-stack apps with the MERN stack, Next.js, TypeScript and PostgreSQL, plus ML-powered features that plug into real backends.
 - 🚀 **Recent projects:**
   - [**PathoPredict**](https://github.com/SameerAhmadKhan01/PathoPredict): a solo project I built from scratch over three months, where I raised model accuracy from 70% to 78%.
-  - [**Nagrik Setu**](https://github.com/SameerAhmadKhan01/NagrikSetu): a team project where I led the backend.
-  - [**ResponseFlow**](https://github.com/SameerAhmadKhan01/ResponseFlow): a solo build.
 - 🧩 **Problem solving:** 200+ LeetCode problems solved, a 62-day max streak, and a steady habit of C++ and Python practice.
 - 📚 **Always learning:** Docker and DevOps workflows, and taking ML models from notebook to production.
 - 🎯 **Looking for:** Internships where I can ship real features, learn from experienced engineers, and contribute to scalable, high-quality software.
@@ -47,13 +45,10 @@ Hi, I'm **Sameer**, a Computer Science student who likes building software end t
 ### 📄 Resume & Transcript:
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1ceplTdQaVV0oE3xpmGwzDcv72qXAue7z/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
-  </a>&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/11kpJMwiGtKASU5hMMvjLuWOnQNP894-Q/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Academic_Transcript-7AA2F7?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Transcript" />
-  </a>
+  <a href="https://drive.google.com/file/d/1ceplTdQaVV0oE3xpmGwzDcv72qXAue7z/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/View_Resume-F75C7E?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Resume" /></a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11kpJMwiGtKASU5hMMvjLuWOnQNP894-Q/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Academic_Transcript-7AA2F7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Transcript" /></a>
 </p>
+
 
 ---
 
