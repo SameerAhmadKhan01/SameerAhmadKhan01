@@ -1,11 +1,6 @@
-<!-- <p align="center">
-  <img src="./assets/helloWorld.gif" width="420" alt="Hello World animation" />
-</p> -->
 <p align="center">
   <img src="./assets/anim.gif" width="850" alt="Pixel art developer workspace" />
 </p>
-
-<!-- <h1 align="center">Hi, I'm Sameer Ahmad Khan</h1> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,16 +19,16 @@
 
 ### 💫 About Me:
 
-- 🏫 **Education:** Second-year B.Tech student specializing in Computer Science and Engineering.
-- 💻 **Technical Focus:** Actively mastering Data Structures & Algorithms (DSA) alongside core backend and full-stack architecture.
-- 🛠️ **Stack Competency:** Developing robust applications using the MERN stack, TypeScript, and multi-language logic implementation.
-- 🎯 **Professional Goal:** Aiming to engineer scalable, high-performance software solutions and contribute to impactful technology frameworks.
+Hi, I'm **Sameer**, a Computer Science student who likes building software end to end, from the database and API to the interface people actually use.
 
-<p align="center">
-  <img src="./assets/coding-gif.gif" width="220" alt="Developer coding animation" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/debugging.gif" width="220" alt="Developer debugging animation" />
-</p>
+- 🛠️ **What I build:** Full-stack apps with the MERN stack, Next.js, TypeScript and PostgreSQL, plus ML-powered features that plug into real backends.
+- 🚀 **Recent projects:**
+  - [**PathoPredict**](https://github.com/SameerAhmadKhan01/PathoPredict): a solo project I built from scratch over three months, where I raised model accuracy from 70% to 78%.
+  - [**Nagrik Setu**](https://github.com/SameerAhmadKhan01/NagrikSetu): a team project where I led the backend.
+  - [**ResponseFlow**](https://github.com/SameerAhmadKhan01/ResponseFlow): a solo build.
+- 🧩 **Problem solving:** 200+ LeetCode problems solved, a 62-day max streak, and a steady habit of C++ and Python practice.
+- 📚 **Always learning:** Docker and DevOps workflows, and taking ML models from notebook to production.
+- 🎯 **Looking for:** Internships where I can ship real features, learn from experienced engineers, and contribute to scalable, high-quality software.
 
 ---
 
@@ -49,6 +44,19 @@
 
 ---
 
+### 📄 Resume & Transcript:
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1ceplTdQaVV0oE3xpmGwzDcv72qXAue7z/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+  </a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11kpJMwiGtKASU5hMMvjLuWOnQNP894-Q/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Academic_Transcript-7AA2F7?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Transcript" />
+  </a>
+</p>
+
+---
+
 ### 💻 Tech Stack:
 
 <p align="center">
@@ -57,7 +65,7 @@
 
 #### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp&perline=8" alt="Languages" />
 </p>
 
 #### 🌐 Frontend Frameworks & UI
@@ -78,20 +86,25 @@
 #### 🤖 Data Science & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=8" alt="ML" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="58" height="58" title="Pandas" />&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="48" height="48" title="Pandas" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter" />
 </p>
 
+#### 🖥️ Platforms & Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,windows,vscode,postman,sublime,vercel,github&perline=8" alt="Platforms and Tools" />
+</p>
+
 ---
 
-### 📊 Core Focus Areas:
+### 📊 Core Focus Areas
 
-**Competitive Programming & DSA** ![](https://geps.dev/progress/75?text=DSA%20&%20Algorithms)
-
-**Full-Stack Web Development** ![](https://geps.dev/progress/80?text=MERN%20Stack)
-
-**Machine Learning** ![](https://geps.dev/progress/60?text=Data%20Science)
+| Domain | Core Focus & Implementation |
+| :--- | :--- |
+| 🧩 **Competitive Programming & DSA** | Algorithmic problem-solving, time/space complexity optimization, and STL/data structure mastery in **C++** & **Python**. |
+| 🌐 **Full-Stack Web Development** | End-to-end scalable web architectures, REST APIs, and responsive UIs using **Next.js, React, Node.js, TypeScript & PostgreSQL**. |
+| 🤖 **Machine Learning & MLOps** | Predictive modeling, data preprocessing, and integrating ML pipelines into production backends with **Scikit-Learn, PyTorch & FastAPI**. |
 
 ---
 
@@ -100,14 +113,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SameerAhmadKhan01&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerAhmadKhan01&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
@@ -123,3 +128,11 @@
 ### 🐍 My Contribution Snake
 
 ![](https://raw.githubusercontent.com/SameerAhmadKhan01/SameerAhmadKhan01/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
