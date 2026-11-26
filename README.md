@@ -45,12 +45,8 @@ Hi, I'm **Sameer**, a Computer Science student who likes building software end t
 ### 📄 Resume & Transcript
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1_FaW1SRA4_t_oDR9fg603n9okOW_wFaH/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_Resume-F75C7E?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Resume" />
-  </a>&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/11kpJMwiGtKASU5hMMvjLuWOnQNP894-Q/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Academic_Transcript-7AA2F7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Transcript" />
-  </a>
+  <a href="https://drive.google.com/file/d/1_FaW1SRA4_t_oDR9fg603n9okOW_wFaH/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-F75C7E?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Resume" /></a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11kpJMwiGtKASU5hMMvjLuWOnQNP894-Q/view?usp=sharing"><img src="https://img.shields.io/badge/Academic_Transcript-7AA2F7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Transcript" /></a>
 </p>
 
 
